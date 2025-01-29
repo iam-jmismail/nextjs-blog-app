@@ -1,0 +1,13 @@
+
+
+.container {
+    padding: 20px;
+    border-radius: 8px;
+}
+
+
+.card {
+    border: 1px solid rgb(192, 141, 141);
+    padding: 4px 2%;
+    margin: 4px 1px;
+}
