@@ -21,3 +21,9 @@ export interface IUser {
     bs: string;
   };
 }
+
+export interface IAlbum {
+  userId: number;
+  id: string;
+  title: string;
+}
